@@ -1,0 +1,4 @@
+.service-list{width: 100%;margin-top:10px;}
+.service-list .txt{display: flex;align-items: center;margin-bottom: 5px;text-align: left;}
+.service-list .txt .desc{padding-left: 10px;font-size: 15px;}
+.service-list .sub-card{display:inline-block;}
