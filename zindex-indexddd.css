@@ -3,7 +3,6 @@
 .service-list .txt .desc{padding-left: 10px;font-size: 15px;}
 .service-list .sub-card{display:inline-block;}
 
-
-@media (max-width: 1024px) {
+@media (min-width: 1024px) {
   ._container_12pdx_1{padding: 0 15px;}
 }
