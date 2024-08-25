@@ -1,7 +1,7 @@
 window.config = {
   logo: "", // 网站logo
   title: "阿米洛", // 网站标题
-  host: "https://amilo.site/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
+  host: "https://back.ddmo.site/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
   storeHome: {
     title: "选择最适合你的订阅", // 套餐页标题
     description:
